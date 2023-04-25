@@ -1,8 +1,9 @@
+[![MasterHead](https://ibb.co/cvCPwnV"><img src="https://i.ibb.co/7zRHQmL/Web3.jpg" alt="Web3" border="0")]
 <h1 align="center">Hi 👋, I'm Abhishek Alimchandani</h1>
 <h3 align="center">A passionate Web3 and Smart Contract developer</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/vNRWoqK5KpX2lV9iFcCgcufOeHQ3oPIdX0eKuhf00NU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzU3/NjlmYzQwMWI2MzFi/YWIxYWRkYjJhYi8x/NTQxNTgwNjExNjI0/LVRFNjRRR0tSSkc4/U1dBSVVTN05TL2Nv/ZGluZy1mcmVhay5n/aWY.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-2416" alt="abhishek-2416" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2416&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2416" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhishek_987506" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_987506?logo=twitter&style=for-the-badge" alt="abhishek_987506" /></a> </p>
 
@@ -33,4 +34,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhishekalN"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekalN" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2416&show_icons=true&locale=en&layout=compact" alt="abhishek-2416" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2416&show_icons=true&locale=en&layout=compact" alt="abhishek-2416" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2416&show_icons=true&locale=en" alt="abhishek-2416" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2416&" alt="abhishek-2416" /></p>
