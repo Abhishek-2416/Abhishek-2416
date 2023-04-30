@@ -36,10 +36,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-2416&show_icons=true&locale=en&layout=compact" alt="abhishek-2416" /></p><br>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-2416&show_icons=true&locale=en" alt="abhishek-2416" /></p><br>
-
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-2416&" alt="abhishek-2416" /></p>
