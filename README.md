@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek_987506" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_987506?logo=twitter&style=for-the-badge" alt="abhishek_987506" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS & HardHAt**
+- 🌱 I’m currently learning **ReactJS & HardHAt**
 
 - 👨‍💻 All of my projects are available at [will be updated soon](will be updated soon)
 
