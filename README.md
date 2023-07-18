@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **ReactJS & Foundry**
 
-- 👨‍💻 All of my projects are available at [will be updated soon](will be updated soon)
+- 👨‍💻 All of my projects are available at will be updated soon)
 
-- 📝 I regularly write articles on [will be updated soon](will be updated soon)
+- 📝 I regularly write articles on (will be updated soon)
 
 - 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **abhishekalimchandani1624@protonmail.com**
 
-- 📄 Know about my experiences [will be updated soon](will be updated soon)
+- 📄 Know about my experiences (will be updated soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
