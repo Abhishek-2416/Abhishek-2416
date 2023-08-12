@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at (will be updated soon)
 
-- 📝 I regularly write articles on (will be updated soon)
+- 📝 I regularly write articles on
 
 - 💬 Ask me about **Solidity**
 
