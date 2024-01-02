@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at (will be updated soon)
 
-- 📝 I regularly write articles on
-
 - 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **abhishekalimchandani1624@protonmail.com**
