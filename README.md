@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **abhishekalimchandani1624@protonmail.com**
 
-- 📄 Know about my experiences 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/abhishek1624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/abhishek1624" height="30" width="40" /></a>
