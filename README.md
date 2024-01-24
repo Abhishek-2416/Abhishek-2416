@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS & Foundry**
 
-- 👨‍💻 All of my projects are available at (will be updated soon)
+- 👨‍💻 All of my **projects** are available at (will be updated soon)
 
 - 💬 Ask me about **Solidity**
 
